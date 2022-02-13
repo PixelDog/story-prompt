@@ -1,3 +1,53 @@
+
+## REQUIREMENTS
+
+PHP ^7.4
+
+## SETUP
+
+Clone the repository to your host/localhost
+
+## TESTING / USAGE: story-prompt.php and statistics.php command line scripts
+
+1) story-prompt.php
+
+story-prompt.php is a command line script for processing replacements
+from a JSON string into a template.
+
+To print out usage from your terminal, run:
+php story-prompt.php
+
+Actions/parameters are as follows:
+@param (string) json
+@param (string) template
+
+EXAMPLE:
+
+// Navigate to the directory root from the terminal and run:
+php story-prompt.php json="{\"UNIT_OF_MEASURE\":\"mile\",\"NUMBER\":15,\"PLACE\":\"work\",\"ATIVE\":\"green\", \"NOUN\":\"jewel\"}" template=template.php
+
+NOTE: The JSON string must be properly escaped
+
+Sample output:
+One day Anna was walking her 15 mile commute to work and found a green jewel on the ground.
+
+1) statistics.php
+statistics.php is a script to gather statistics on all of the saved stories.
+From the terminal, simply run:
+php statistics.php
+
+Sample output:
+The most popular NUMBER is: 5
+The most popular UNIT_OF_MEASURE is: mile
+The most popular PLACE is: work
+The most popular ADJECTIVE is: green
+The most popular NOUN is: jewel
+The minimum value for NUMBER is 1
+The maximum value for NUMBER is 15
+
+## @todo's
+statistics.php should be set up to accept parameters for stat files and templates
+
 ## Instructions
 
 Thanks for doing this project as part of your interview process. We appreciate your time and want to make this a fun experience. If you have any questions at all, please reach out to us and we'll get back to you.

@@ -1,0 +1,12 @@
+{"UNIT_OF_MEASURE":"mile","NUMBER":1,"PLACE":"work","ADJECTIVE":"green","NOUN":"rock"}
+{"UNIT_OF_MEASURE":"mile","NUMBER":1,"PLACE":"work","ADJECTIVE":"green","NOUN":"jewel"}
+{"UNIT_OF_MEASURE":"mile","NUMBER":5,"PLACE":"work","ADJECTIVE":"green","NOUN":"jewel"}
+{"UNIT_OF_MEASURE":"mile","NUMBER":5,"PLACE":"work","ADJECTIVE":"green","NOUN":"jewel"}
+{"UNIT_OF_MEASURE":"mile","NUMBER":5,"PLACE":"work","ADJECTIVE":"green","NOUN":"jewel"}
+{"UNIT_OF_MEASURE":"mile","NUMBER":5,"PLACE":"work","ADJECTIVE":"green","NOUN":"jewel"}
+{"UNIT_OF_MEASURE":"mile","NUMBER":5,"PLACE":"work","ADJECTIVE":"green","NOUN":"jewel"}
+{"UNIT_OF_MEASURE":"mile","NUMBER":5,"PLACE":"work","ADJECTIVE":"green","NOUN":"jewel"}
+{"UNIT_OF_MEASURE":"mile","NUMBER":5,"PLACE":"work","ADJECTIVE":"green","NOUN":"jewel"}
+{"UNIT_OF_MEASURE":"mile","NUMBER":5,"PLACE":"work","ADJECTIVE":"green","NOUN":"jewel"}
+{"UNIT_OF_MEASURE":"mile","NUMBER":15,"PLACE":"work","ADJECTIVE":"green","NOUN":"jewel"}
+{"UNIT_OF_MEASURE":"mile","NUMBER":15,"PLACE":"work","ADJECTIVE":"green","NOUN":"jewel"}
