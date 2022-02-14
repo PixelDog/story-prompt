@@ -24,7 +24,9 @@ Actions/parameters are as follows:
 EXAMPLE:
 
 // Navigate to the directory root from the terminal and run:
-php story-prompt.php json="{\"UNIT_OF_MEASURE\":\"mile\",\"NUMBER\":15,\"PLACE\":\"work\",\"ATIVE\":\"green\", \"NOUN\":\"jewel\"}" template=template.php
+```
+json="{\"UNIT_OF_MEASURE\":\"mile\",\"NUMBER\":15,\"PLACE\":\"work\",\"ADJECTIVE\":\"green\", \"NOUN\":\"jewel\"}" template=template.php
+```
 
 NOTE: The JSON string must be properly escaped
 Accepted inputs are found in src/templates/template.php as follows:
